@@ -1,0 +1,4 @@
+1, LondonEngland4, 0, LondonEngland4, -90, -90, none, 0, closed, closed, 1.350784, 140.0026
+2, LondonEngland4, 0, LondonEngland4, 90, 90, none, 0, open, open, 1.294754, 156.1329
+3, neutral, 0, NaplesCampania, 90, 90, none, 0, closed, closed, 1.393646, 186.4014
+4, neutral, 0, NaplesCampania, -90, -90, none, 0, open, open, 1.461899, 201.9248
