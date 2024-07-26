@@ -1,1 +1,0 @@
-trialIdx, primeName, primeAngleYaw, targetName, targetAngleYaw, targetSide, sameScenePrime, correctResponse, response, roll, pitch, yaw, rt, timestamp
