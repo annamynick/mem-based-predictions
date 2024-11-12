@@ -23,6 +23,6 @@ To run, open the script in MATLAB, then indicate an Experiment to analyze (Exper
 
 For a full list of scripts corresponding to manuscript figures (as of Jan 10 2024), please refer to this chart: 
 
-![](README/script_chart.pdf)
+![](README/script_chart.png)
 
 # mem-based-predictions
