@@ -1,0 +1,6 @@
+1, Quince2, 0, Quince2, 90, -90, left, 0, closed, open, 1.349976, 563.4393
+2, OConnellIreland3, 180, OConnellIreland3, 270, 90, right, 0, open, open, 1.266968, 584.4042
+3, NeutralOConnellIreland3, 0, OConnellIreland3, 270, 90, right, 0, open, open, 2.088318, 626.9578
+4, NeutralQuince2, 0, Quince2, -90, -90, left, 0, open, open, 0.8354492, 638.8205
+5, MateosGagoSpain, 0, MateosGagoSpain, 90, 90, left, 0, open, open, 1.628967, 671.2593
+6, NeutralMateosGagoSpain, 0, MateosGagoSpain, -90, -90, right, 0, closed, closed, 2.868042, 687.0153

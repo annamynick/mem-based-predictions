@@ -1,0 +1,15 @@
+BakerBerryCharter, 90, 0, right, right, 2.332642, 1412.687
+RaunerFirst, 90, 0, right, right, 1.110718, 1414.589
+Maynard, 0, 0, center, center, 0.9024658, 1416.325
+Fairbanks, -90, 0, left, right, 1.582764, 1418.755
+53Commons, 0, 0, center, center, 1.72168, 1421.323
+McLaughlinCluster, 90, 0, right, right, 1.110718, 1423.323
+Hop2, 90, 0, right, right, 1.291138, 1425.419
+Fairbanks, 90, 0, right, right, 1.138184, 1427.266
+PineBackHall, 0, 0, center, center, 0.7081299, 1428.946
+Hop2, 0, 0, center, center, 0.8470459, 1430.529
+Zimmerman, -90, 0, left, left, 1.054932, 1432.264
+RollinsChapel3, 90, 0, right, right, 0.7637939, 1433.834
+Maynard, 90, 0, right, right, 1.138672, 1435.652
+BakerBerryHistoric2, 0, 0, center, center, 0.7496338, 1437.096
+Hop2, -90, 0, left, right, 1.055298, 1438.762

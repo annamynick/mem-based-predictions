@@ -1,0 +1,112 @@
+expt,subject_id,condition,median_rt
+Experiment6,degas711,Same-scene spatially congruent,1.030334
+Experiment6,degas714,Same-scene spatially congruent,1.170776
+Experiment6,degas715,Same-scene spatially congruent,1.044128
+Experiment6,degas712,Same-scene spatially congruent,1.350647
+Experiment6,degas717,Same-scene spatially congruent,1.197449
+Experiment6,degas718,Same-scene spatially congruent,1.1068725
+Experiment6,degas720,Same-scene spatially congruent,0.9050293
+Experiment6,degas721,Same-scene spatially congruent,0.96069335
+Experiment6,degas722,Same-scene spatially congruent,1.197388
+Experiment6,degas723,Same-scene spatially congruent,1.1000065
+Experiment6,degas724,Same-scene spatially congruent,1.183594
+Experiment6,degas725,Same-scene spatially congruent,1.1968995
+Experiment6,degas726,Same-scene spatially congruent,1.281128
+Experiment6,member012,Same-scene spatially congruent,1.058228
+Experiment6,degas645,Same-scene spatially congruent,1.1839295
+Experiment6,degas989,Same-scene spatially congruent,1.11438
+Experiment6,degas728,Same-scene spatially congruent,1.357483
+Experiment6,degas729,Same-scene spatially congruent,0.93365475
+Experiment6,degas730,Same-scene spatially congruent,1.023407
+Experiment6,degas731,Same-scene spatially congruent,0.9606934
+Experiment6,degas732,Same-scene spatially congruent,1.239136
+Experiment6,degas733,Same-scene spatially congruent,1.377869
+Experiment6,degas734,Same-scene spatially congruent,1.225098
+Experiment6,degas735,Same-scene spatially congruent,1.183472
+Experiment6,degas736,Same-scene spatially congruent,0.9884644
+Experiment6,degas738,Same-scene spatially congruent,1.225342
+Experiment6,degas751,Same-scene spatially congruent,1.22522
+Experiment6,degas752,Same-scene spatially congruent,1.114014
+Experiment6,degas754,Same-scene spatially congruent,1.0789485
+Experiment6,degas753,Same-scene spatially congruent,1.3990785
+Experiment6,degas750,Same-scene spatially congruent,1.2183535
+Experiment6,degas748,Same-scene spatially congruent,1.0303645
+Experiment6,degas758,Same-scene spatially congruent,1.2461855
+Experiment6,degas760,Same-scene spatially congruent,0.9468384
+Experiment6,degas761,Same-scene spatially congruent,1.281006
+Experiment6,degas762,Same-scene spatially congruent,1.169495
+Experiment6,degas745,Same-scene spatially congruent,1.072144
+Experiment6,degas711,Neutral,1.1069035
+Experiment6,degas714,Neutral,1.106934
+Experiment6,degas715,Neutral,1.030273
+Experiment6,degas712,Neutral,1.336731
+Experiment6,degas717,Neutral,1.308899
+Experiment6,degas718,Neutral,1.0653075
+Experiment6,degas720,Neutral,1.037323
+Experiment6,degas721,Neutral,1.113892
+Experiment6,degas722,Neutral,1.253113
+Experiment6,degas723,Neutral,1.2741395
+Experiment6,degas724,Neutral,1.076477
+Experiment6,degas725,Neutral,1.155579
+Experiment6,degas726,Neutral,1.253052
+Experiment6,member012,Neutral,1.079041
+Experiment6,degas645,Neutral,1.2948305
+Experiment6,degas989,Neutral,1.197937
+Experiment6,degas728,Neutral,1.2740175
+Experiment6,degas729,Neutral,0.9608154
+Experiment6,degas730,Neutral,1.0719905
+Experiment6,degas731,Neutral,1.044189
+Experiment6,degas732,Neutral,1.2323915
+Experiment6,degas733,Neutral,1.350525
+Experiment6,degas734,Neutral,1.2533265
+Experiment6,degas735,Neutral,1.198059
+Experiment6,degas736,Neutral,1.1208805
+Experiment6,degas738,Neutral,1.183594
+Experiment6,degas751,Neutral,1.183533
+Experiment6,degas752,Neutral,1.155762
+Experiment6,degas754,Neutral,1.211487
+Experiment6,degas753,Neutral,1.44812
+Experiment6,degas750,Neutral,1.2391665
+Experiment6,degas748,Neutral,1.00946
+Experiment6,degas758,Neutral,1.273987
+Experiment6,degas760,Neutral,0.9885254
+Experiment6,degas761,Neutral,1.141602
+Experiment6,degas762,Neutral,1.204346
+Experiment6,degas745,Neutral,1.085999
+Experiment6,degas711,Same scene spatially-displaced,1.030457
+Experiment6,degas714,Same scene spatially-displaced,1.11377
+Experiment6,degas715,Same scene spatially-displaced,1.141602
+Experiment6,degas712,Same scene spatially-displaced,1.26709
+Experiment6,degas717,Same scene spatially-displaced,1.253174
+Experiment6,degas718,Same scene spatially-displaced,1.100037
+Experiment6,degas720,Same scene spatially-displaced,1.058289
+Experiment6,degas721,Same scene spatially-displaced,1.197327
+Experiment6,degas722,Same scene spatially-displaced,1.308838
+Experiment6,degas723,Same scene spatially-displaced,1.1556095
+Experiment6,degas724,Same scene spatially-displaced,1.0651555
+Experiment6,degas725,Same scene spatially-displaced,1.378296
+Experiment6,degas726,Same scene spatially-displaced,1.322632
+Experiment6,member012,Same scene spatially-displaced,1.065735
+Experiment6,degas645,Same scene spatially-displaced,1.3927
+Experiment6,degas989,Same scene spatially-displaced,1.22522
+Experiment6,degas728,Same scene spatially-displaced,1.404602
+Experiment6,degas729,Same scene spatially-displaced,0.89813235
+Experiment6,degas730,Same scene spatially-displaced,1.120789
+Experiment6,degas731,Same scene spatially-displaced,0.9885254
+Experiment6,degas732,Same scene spatially-displaced,1.260437
+Experiment6,degas733,Same scene spatially-displaced,1.253052
+Experiment6,degas734,Same scene spatially-displaced,1.155762
+Experiment6,degas735,Same scene spatially-displaced,1.4061585
+Experiment6,degas736,Same scene spatially-displaced,1.03717
+Experiment6,degas738,Same scene spatially-displaced,1.197449
+Experiment6,degas751,Same scene spatially-displaced,1.22522
+Experiment6,degas752,Same scene spatially-displaced,1.183411
+Experiment6,degas754,Same scene spatially-displaced,1.15564
+Experiment6,degas753,Same scene spatially-displaced,1.1348575
+Experiment6,degas750,Same scene spatially-displaced,1.197449
+Experiment6,degas748,Same scene spatially-displaced,1.113647
+Experiment6,degas758,Same scene spatially-displaced,1.253174
+Experiment6,degas760,Same scene spatially-displaced,0.97454835
+Experiment6,degas761,Same scene spatially-displaced,1.281006
+Experiment6,degas762,Same scene spatially-displaced,1.197327
+Experiment6,degas745,Same scene spatially-displaced,1.169434
